@@ -25,3 +25,5 @@ https://moz.com/learn/seo/alt-text
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
 https://www.w3schools.com/cssref/pr_class_clear.asp
 https://github.community/t/how-do-you-put-images-on-the-readme-md-file/576
+https://frontstuff.io/should-you-chain-or-extend-css-classes
+https://uxdesign.cc/semantic-html-the-foundation-of-web-accessibility-e5bbecad7c17
